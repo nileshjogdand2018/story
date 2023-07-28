@@ -1,3 +1,5 @@
+[release notes updated]
+
 [1.4.0]
 
 Changed
